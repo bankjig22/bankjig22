@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm K.Suksan</h1>
 <h3 align="center">programmer student from thailand</h3>
+<img align="center" alt="Coding" src="https://media3.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif?cid=790b7611f5509ffc300e04596f887ca93fd569a63c82a409&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
